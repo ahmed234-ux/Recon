@@ -1,8 +1,8 @@
 #!/bin/bash
-# Ahmed tell you have a nice recon 
+# Ahmed tell you have a nice haking
 # List of domains for recon
 domains=(
-    "👀but your domain👀"
+    "👀put your domain👀"
 )
 
 output="full_recon"
